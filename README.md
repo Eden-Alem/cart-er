@@ -1,1 +1,3 @@
 # cart-er
+
+The current process of how things are running is as follows. First, there is a driver in the car. The vehicle at the back has a chain holder, so the driver gets out of the car, locks the chain with a cart, and then drives off, or if she/he needs more than one cart chained together, she/he chains the first cart. Then each cart has the same chain at the end, so she/he would go and then attach to the next cart forming something like a cart chain, and then she/he would go back in and drive off. I'm thinking of helping the driver instead of always going out of the car to chain those carts. What could we do to automate and help the driver?
